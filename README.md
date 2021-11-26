@@ -11,10 +11,14 @@
 <ul>
 <li>ChangeItem</li>
 <li>Pay For Month</li>
+<li>Calculated Lost For Year</li>
 </ul>
 <h3>ChangeItem</h3>
 <p>Determina si el ahorro sera por mes o año; ya que dependiendo de esto, se devolvera un resultado el cual se usara en el siguiente calculo...</p>
 <h3>Pay For Month</h3>
 <p>Calcula cuanto se pagara por mes usando Search Item para saber cuantos meses se debera pagar por este ahorro.</p>
+<h3>Calculated Lost For Year</h3>
+<p>Calcula cuanto perdera por año si no genera rentabilidad y lo muestra.</p>
+<img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap4.png"/>
 <a href="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/app.js">Ver funcionalidades<br></a>
 <a href="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/style.css">Ver estilos</a>

@@ -12,6 +12,8 @@
 <li>ChangeItem</li>
 <li>Pay For Month</li>
 <li>Calculated Lost For Year</li>
+<li>Calculated costEffectiveness</li>
+<li>Calculated ROI</li>
 </ul>
 <h3>ChangeItem</h3>
 <p>Determina si el ahorro sera por mes o año; ya que dependiendo de esto, se devolvera un resultado el cual se usara en el siguiente calculo...</p>
@@ -20,5 +22,12 @@
 <h3>Calculated Lost For Year</h3>
 <p>Calcula cuanto perdera por año si no genera rentabilidad y lo muestra.</p>
 <img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap4.png"/>
+<h3>Calculated costEffectiveness</h3>
+<p>Calcula la rentabilidad de tu negocio.</p>
+<h3>Calculated ROI</h3>
+<p>Calcula el retorno de tu inversion.</p>
+<img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap5.png"/>
+<img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap6.png"/>
+<img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap7.png"/>
 <a href="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/app.js">Ver funcionalidades<br></a>
 <a href="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/style.css">Ver estilos</a>

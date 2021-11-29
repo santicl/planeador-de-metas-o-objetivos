@@ -14,6 +14,8 @@
 <li>Calculated Lost For Year</li>
 <li>Calculated costEffectiveness</li>
 <li>Calculated ROI</li>
+<li>Calculated Net Operating</li>
+<li>Calculated Gross Profit</li>
 </ul>
 <h3>ChangeItem</h3>
 <p>Determina si el ahorro sera por mes o año; ya que dependiendo de esto, se devolvera un resultado el cual se usara en el siguiente calculo...</p>
@@ -29,5 +31,9 @@
 <img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap5.png"/>
 <img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap6.png"/>
 <img src="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/capturas-img/cap7.png"/>
+<h3>Calculated Net Operating</h3>
+<p>Calcula la utilidad neta.</p>
+<h3>Calculated Gross Profit</h3>
+<p>Calcula la utilidad Bruta.</p>
 <a href="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/app.js">Ver funcionalidades<br></a>
 <a href="https://github.com/santicl/planeador-de-metas-o-objetivos/blob/master/style.css">Ver estilos</a>
